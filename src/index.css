@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+body{
+    font-family: 'Ubuntu';
+    /* background: #3F000F; */
+
+   background: gold;
+}
+h1{
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+h3{
+    font-size: 1em;
+}
+.heading{
+    text-align: center;
+    color: #3F000F;
+}
+.api{
+  background: gold;
+  color:#3F000F;
+}
+.api li {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid #3F000F;
+    margin-bottom: 5px;
+}
